@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Romero</h1>
 <h3 align="center">un apasionado de la tecnología y la moda actualmente cursando bootcamp de full stack developer aunque mi pasión es el front end, soy autodidacta y aprendiz de la comunidad de código abierto, me encanta como se intercambia conocimiento a través del código abierto en web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo-3&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-3" alt="ricardo-3" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ra7a3lr" target="blank"><img src="https://img.shields.io/twitter/follow/ra7a3lr?logo=twitter&style=for-the-badge" alt="ra7a3lr" /></a> </p>
 
 - 🔭 I’m currently working on [Rick y Morty](https://github.com/ricardo-3/Rick-and-Morty)
@@ -29,6 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-3&show_icons=true&locale=en&layout=compact" alt="ricardo-3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-3&show_icons=true&locale=en" alt="ricardo-3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-3&" alt="ricardo-3" /></p>
 

@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ricardo-3?tab=repositories](https://github.com/ricardo-3?tab=repositories)
 
-- 📫 How to reach me **romero890827@gmail.com**
+- 📫 How to reach me **rafael890827@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

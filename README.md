@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy RAFAEL ROMERO </h1>
-<h3 align="center">Un apasionado de la tecnología disenador grafico con experiencia en UX/UI., Actual mente cursando bootcamp de full stack developer soy autodidacta y aprendiz de la comunidad de código abierto, me encanta como se intercambia conocimiento a través de la web.</h3>
+<h3 align="center">Un apasionado de la tecnología Productor de Moda y Disenador Web con experiencia en UX/UI., Actual mente cursando bootcamp de full stack developer soy autodidacta y aprendiz de la comunidad de código abierto, me encanta como se intercambia conocimiento a través de la web.</h3>
 
 <p align="left"> <a href="https://twitter.com/ra7a3lr" target="blank"><img src="https://img.shields.io/twitter/follow/ra7a3lr?logo=twitter&style=for-the-badge" alt="ra7a3lr" /></a> </p>
 

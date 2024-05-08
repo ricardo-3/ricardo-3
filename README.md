@@ -1,17 +1,16 @@
 <h1 align="center">Hola 👋, Soy RICARDO ROMERO </h1>
-<h3 align="center">Un apasionado de la tecnología, Diseñador Web con experiencia en UX/UI. Soy autodidacta y aprendiz de la comunidad de código abierto, me encanta como se intercambia conocimiento a través de la web.</h3>
+<h3 align="center">Un apasionado de la tecnología, Diseñador con experiencia en  QA
+testing y desarrollo de software. Soy autodidacta y aprendiz de la comunidad de código abierto, mi jobi es la programacion.</h3>
 
 <p align="left"> <a href="https://twitter.com/ra7a3lr" target="blank"><img src="https://img.shields.io/twitter/follow/ra7a3lr?logo=twitter&style=for-the-badge" alt="ra7a3lr" /></a> </p>
 
 - 🔭 Mi último proyecto [Rick y Morty](https://github.com/ricardo-3/Rick-and-Morty)
 
-- 🌱 Actualmente estoy aprendiendo  **javascript y react js "https://nucba.com.ar"**
-
-- 👯 Mi anterior colaboración  [Instagram-Clone](file:///C:/Users/romer/OneDrive/Escritorio/instagram-clone/login.html#)
+- 🌱 Actualmente estoy aprendiendo  **Phyton y javascript**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ricardo-3?tab=repositories](https://github.com/ricardo-3?tab=repositories)
 
-- 📫 Contactame **romerol890827@gmail.com**
+- 📫 Correo de contacto **rafael890827@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

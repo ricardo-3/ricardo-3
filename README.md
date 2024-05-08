@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy RICARDO ROMERO </h1>
+<h1 align="center">👋 Hola, Soy Rafael Ricardo Romero </h1>
 <h3 align="center">Un apasionado de la tecnología, Diseñador con experiencia en  QA
 testing y desarrollo de software. Soy autodidacta y aprendiz de la comunidad de código abierto, mi jobi es la programacion.</h3>
 

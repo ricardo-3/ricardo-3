@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Ricardo Romero</h1> <p align="center"> <strong>Product Designer y Analista UX/UI</strong> con más de 10 años de experiencia en diseño estratégico, marketing y merchandising. </p> <p align="center"> Mi carrera se fundamenta en comprender profundamente las necesidades y comportamientos de los usuarios para crear soluciones digitales que faciliten interacciones naturales y significativas, tanto en entornos virtuales como físicos. </p> <p align="center"> He colaborado con marcas globales como <strong>Tommy Hilfiger</strong>, <strong>Ralph Lauren</strong> y <strong>Nike</strong>, desarrollando estrategias que unen la estética con la funcionalidad y fortalecen la conexión entre el usuario y la marca. Creo firmemente que el buen diseño va más allá de lo visual: se trata de resolver problemas reales y mejorar la experiencia humana. </p> <p align="center"> Hoy, aplico mi experiencia en análisis y diseño de interfaces para transformar insights en productos digitales intuitivos y efectivos, equilibrando la innovación tecnológica con una comprensión empática del usuario. </p> <p align="center"> <a href="https://twitter.com/ra7a3lr" target="blank"> <img src="https://img.shields.io/twitter/follow/ra7a3lr?logo=twitter&style=for-the-badge" alt="ra7a3lr" /> </a> </p>
 <br>
 
-🎨 Último proyecto: Rick y Morty
+🎨 Último proyecto: Homer -Web (https://web-homero-dvye44pdj-ricardo-medina.vercel.app/)
 <br>
 💻 Mis proyectos: GitHub Repositories
 <br>

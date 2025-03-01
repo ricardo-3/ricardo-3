@@ -2,9 +2,11 @@
 <br>
 
 🎨 Último proyecto: Rick y Morty
-🚀 Actualmente explorando: Herramientas de diseño y desarrollo front-end (Python y JavaScript)
+<br>
 💻 Mis proyectos: GitHub Repositories
+<br>
 📧 Contacto: rafael890827@gmail.com
+<br>
 <h3 align="left"> Conecta conmigo:</h3> 
 <p align="left"> <!-- Aquí puedes agregar más enlaces a redes sociales si lo deseas --> </p> <h3 align="left">Lenguajes y Herramientas:</h3> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   

@@ -14,7 +14,7 @@
 
 Diseño productos digitales que la gente *quiere* usar.
 
-Con **+10 años** entre marketing y diseño estratégico,  mi proceso arranca siempre en la misma pregunta: *¿qué necesita realmente el usuario?*
+Con **+10 años** entre diseño estratégico, marketing y merchandising, mi proceso arranca siempre en la misma pregunta: *¿qué necesita realmente el usuario?*
 
 He trabajado con **Tommy Hilfiger**, **Ralph Lauren** y **Nike** — conectando estética con funcionalidad para que cada interacción se sienta natural.
 
@@ -98,75 +98,108 @@ Hoy transformo insights en interfaces intuitivas desde **[NAN Studio](https://na
 ---
 
 <!-- TOOLKIT SECTION -->
+
 <h2 align="center">Kit de herramientas</h2>
+
 <br>
+
 <div align="center">
-Diseño & Prototipado
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-UX Research & Testing
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Inteligencia Artificial
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Desarrollo front-end
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Backend & Data
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Analítica & Métricas
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Editores de código
-Mostrar imagen
-Mostrar imagen
-Gestión de proyectos
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Versionado & Colaboración
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
+**Diseño & Prototipado**
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
+![Sketch](https://img.shields.io/badge/Sketch-0d1117?style=for-the-badge&logo=sketch&logoColor=F7B500)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![After Effects](https://img.shields.io/badge/After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+
+**UX Research & Testing**
+
+![Maze](https://img.shields.io/badge/Maze-0d1117?style=for-the-badge&logo=maze&logoColor=00D478)
+![Hotjar](https://img.shields.io/badge/Hotjar-0d1117?style=for-the-badge&logo=hotjar&logoColor=FF3C00)
+![Miro](https://img.shields.io/badge/Miro-0d1117?style=for-the-badge&logo=miro&logoColor=FFD02F)
+![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-0d1117?style=for-the-badge&logoColor=2E6FF2)
+![FigJam](https://img.shields.io/badge/FigJam-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+**Inteligencia Artificial**
+
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Midjourney](https://img.shields.io/badge/Midjourney-0d1117?style=for-the-badge&logo=midjourney&logoColor=ffffff)
+![Copilot](https://img.shields.io/badge/Copilot-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=6CC644)
+
+**Desarrollo front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Analítica & Métricas**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-0d1117?style=for-the-badge&logo=looker&logoColor=4285F4)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-0d1117?style=for-the-badge&logo=mixpanel&logoColor=7856FF)
+![Amplitude](https://img.shields.io/badge/Amplitude-0d1117?style=for-the-badge&logo=amplitude&logoColor=1D72F2)
+
+**Editores de código**
+
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff)
+
+**Gestión de proyectos**
+
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![ClickUp](https://img.shields.io/badge/ClickUp-0d1117?style=for-the-badge&logo=clickup&logoColor=7B68EE)
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=ffffff)
+![Confluence](https://img.shields.io/badge/Confluence-0d1117?style=for-the-badge&logo=confluence&logoColor=172B4D)
+![Trello](https://img.shields.io/badge/Trello-0d1117?style=for-the-badge&logo=trello&logoColor=0052CC)
+
+**Versionado & Colaboración**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Slack](https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=4A154B)
+
 </div>
 
+---
+
 <!-- CONNECT SECTION -->
+
 <h2 align="center">Conectemos</h2>
+
 <br>
+
 <div align="center">
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
+[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1769FF)](https://www.behance.net/Ricardo-Romero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rafael-rom)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ra7a3lr)
+[![NAN Studio](https://img.shields.io/badge/NAN_Studio-0d1117?style=for-the-badge&logo=safari&logoColor=4cc9f0)](https://nanestudio.art/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael890827@gmail.com)
+
 </div>
+
 <br>
+
 <!-- FOOTER -->
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
+
 </div>

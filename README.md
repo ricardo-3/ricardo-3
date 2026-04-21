@@ -14,7 +14,7 @@
 
 Diseño productos digitales que la gente *quiere* usar.
 
-Con **+10 años** entre diseño estratégico, marketing y merchandising, mi proceso arranca siempre en la misma pregunta: *¿qué necesita realmente el usuario?*
+Con **+10 años** entre marketing y diseño estratégico,  mi proceso arranca siempre en la misma pregunta: *¿qué necesita realmente el usuario?*
 
 He trabajado con **Tommy Hilfiger**, **Ralph Lauren** y **Nike** — conectando estética con funcionalidad para que cada interacción se sienta natural.
 
@@ -98,58 +98,75 @@ Hoy transformo insights en interfaces intuitivas desde **[NAN Studio](https://na
 ---
 
 <!-- TOOLKIT SECTION -->
-
 <h2 align="center">Kit de herramientas</h2>
-
 <br>
-
 <div align="center">
-
-**Diseño**
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-
-**Desarrollo front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=ffffff)
-
+Diseño & Prototipado
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+UX Research & Testing
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Inteligencia Artificial
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Desarrollo front-end
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Backend & Data
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Analítica & Métricas
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Editores de código
+Mostrar imagen
+Mostrar imagen
+Gestión de proyectos
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Versionado & Colaboración
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 </div>
-
----
 
 <!-- CONNECT SECTION -->
-
 <h2 align="center">Conectemos</h2>
-
 <br>
-
 <div align="center">
-
-[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1769FF)](https://www.behance.net/Ricardo-Romero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rafael-rom)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ra7a3lr)
-[![NAN Studio](https://img.shields.io/badge/NAN_Studio-0d1117?style=for-the-badge&logo=safari&logoColor=4cc9f0)](https://nanestudio.art/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael890827@gmail.com)
-
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 </div>
-
 <br>
-
 <!-- FOOTER -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
-
 </div>

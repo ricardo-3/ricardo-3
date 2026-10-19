@@ -1,205 +1,112 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Rafael%20Ricardo%20Romero&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Product%20Designer%20%E2%80%A2%20UX%2FUI%20Analyst&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+# Rafael Ricardo Romero
+
+### Product Designer · UX/UI · Front-end Development
+
+**Diseño experiencias digitales y las convierto en productos funcionales.**
+
+Del descubrimiento del problema al diseño de interfaces, el prototipado y la implementación web.
+
+[Portfolio](https://ricardo-3.github.io/porfolio/) · [LinkedIn](https://www.linkedin.com/in/rafael-rom/) · [Behance](https://www.behance.net/Ricardo-Romero) · [NAN Studio](https://nanestudio.art/)
 
 </div>
 
-<!-- INTRO SECTION -->
+---
+
+## Perfil
+
+Soy diseñador de productos digitales con una trayectoria de más de 10 años vinculada al diseño visual, la estrategia de marca y las experiencias comerciales. Mi recorrido comenzó en el mundo de la moda, el visual merchandising y los espacios físicos, y evolucionó hacia el **diseño UX/UI y el desarrollo de productos web**.
+
+Hoy conecto **investigación, arquitectura de información, diseño de interfaces y desarrollo front-end** para crear experiencias claras, accesibles y visualmente consistentes. Me interesa especialmente trabajar en el punto de encuentro entre diseño, tecnología e inteligencia artificial.
+
+Mi experiencia con marcas como Nike, Tommy Hilfiger y Ralph Lauren corresponde a etapas anteriores de **visual merchandising y diseño comercial**. Esa mirada sobre la experiencia de las personas sigue presente en mi trabajo digital.
+
+## Proyectos seleccionados
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### Sobre mí
+### 01 / [Vidriera ↗](https://ricardo-3.github.io/vidriera/index.html)
 
-Diseño productos digitales que la gente *quiere* usar.
+**EdTech · Diseño de experiencias · React**
 
-Con **+10 años** entre diseño estratégico, marketing y merchandising, mi proceso arranca siempre en la misma pregunta: *¿qué necesita realmente el usuario?*
+Plataforma interactiva para aprender Visual Merchandising mediante recorridos por una tienda virtual, contenidos guiados y un taller de experimentación.
 
-He trabajado con **Tommy Hilfiger**, **Ralph Lauren** y **Nike** — conectando estética con funcionalidad para que cada interacción se sienta natural.
+**Enfoque:** aprendizaje activo, diseño de interacción, arquitectura de información e implementación front-end.
 
-Hoy transformo insights en interfaces intuitivas desde **[NAN Studio](https://nanestudio.art/)**, equilibrando innovación técnica con empatía real por el usuario.
+[Explorar proyecto](https://ricardo-3.github.io/vidriera/index.html) · [Código](https://github.com/ricardo-3/vidriera)
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### En este momento
+### 02 / [Arbolito BR ↗](https://ricardo-3.github.io/Arbolito-BR/)
 
-🔭 &nbsp; Diseñando en **[NAN Studio](https://nanestudio.art/)** — Marketing & UX Engineering
+**Fintech utility · UX móvil · Web**
 
-🧪 &nbsp; Explorando **diseño generativo** e **IA aplicada a UX**
+Calculadora de reales a pesos argentinos con formato de ticket y consulta de referencias de conversión PIX.
 
-🎯 &nbsp; Enfocado en **design systems** y **micro-interacciones**
+**Enfoque:** simplificación de decisiones cotidianas, visualización de información y automatización de actualización de datos.
 
-🌍 &nbsp; Buenos Aires, Argentina 🇦🇷 · Raíces colombianas 🇨🇴
+[Probar herramienta](https://ricardo-3.github.io/Arbolito-BR/) · [Código](https://github.com/ricardo-3/Arbolito-BR)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / [NAN Studio ↗](https://nanestudio.art/)
+
+**Web experience · Estrategia digital · UX/UI**
+
+Experiencia web para presentar servicios de marketing, analítica e ingeniería digital con una narrativa enfocada en el negocio.
+
+**Enfoque:** comunicación digital, jerarquía visual, experiencia de navegación y diseño orientado a objetivos.
+
+[Visitar sitio](https://nanestudio.art/)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / [Portfolio — rrr ↗](https://ricardo-3.github.io/porfolio/)
+
+**Diseño editorial · Identidad digital · React**
+
+Espacio personal que explora la relación entre tipografía, dirección de arte, narrativa e interacción digital.
+
+**Enfoque:** diseño de interfaces, sistema visual, animación y desarrollo de una experiencia web propia.
+
+[Ver portfolio](https://ricardo-3.github.io/porfolio/) · [Código](https://github.com/ricardo-3/porfolio)
 
 </td>
 </tr>
 </table>
 
----
+## Qué aporto a un equipo
 
-<!-- PROJECTS SECTION -->
+| Diseño de producto | Diseño de interfaces | Desarrollo y tecnología |
+| --- | --- | --- |
+| UX research y análisis de necesidades | UI design y prototipado en Figma | HTML, CSS y JavaScript |
+| Arquitectura de información y user flows | Design systems y componentes | React y Vite |
+| Diseño centrado en el usuario | Diseño responsive e interacción | Git, GitHub y despliegue web |
 
-<h2 align="center">Proyectos destacados</h2>
+**También exploro:** inteligencia artificial aplicada a los procesos de diseño, prototipado y desarrollo de productos digitales.
 
-<br>
+## Mi enfoque
 
-<div align="center">
-<table>
-<tr>
+> Entender el problema. Diseñar con intención. Construir, probar e iterar.
 
-<td align="center" width="33%">
-<a href="https://ricardo-3.github.io/quien-seras/">
-<img src="https://img.shields.io/badge/🧭_¿Quién_Serás?-0d1117?style=for-the-badge" />
-</a>
-<br><br>
-<sub><b>Test vocacional interactivo</b></sub>
-<br>
-<sub>WebApp con 16 referentes globales y perfilamiento vocacional. Creada para adolescentes colombianos.</sub>
-<br><br>
-<a href="https://ricardo-3.github.io/quien-seras/">
-<img src="https://img.shields.io/badge/Ver_demo-4cc9f0?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://github.com/ricardo-3/transmutar">
-<img src="https://img.shields.io/badge/🔥_Transmutar-0d1117?style=for-the-badge" />
-</a>
-<br><br>
-<sub><b>Transmutador emocional</b></sub>
-<br>
-<sub>Experiencia digital para liberar pensamientos negativos mediante una hoguera simbólica interactiva.</sub>
-<br><br>
-<a href="https://github.com/ricardo-3/transmutar">
-<img src="https://img.shields.io/badge/Ver_repo-4cc9f0?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<a href="https://web-homero-dvye44pdj-ricardo-medina.vercel.app/">
-<img src="https://img.shields.io/badge/🏠_Homer_Web-0d1117?style=for-the-badge" />
-</a>
-<br><br>
-<sub><b>Proyecto web</b></sub>
-<br>
-<sub>Aplicación web con diseño centrado en la experiencia del usuario y navegación intuitiva.</sub>
-<br><br>
-<a href="https://web-homero-dvye44pdj-ricardo-medina.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_demo-4cc9f0?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-</td>
-
-</tr>
-</table>
-</div>
+Me interesan los proyectos en los que el diseño no se limita a una pantalla atractiva: ayuda a entender necesidades, reducir fricciones y transformar ideas en experiencias que funcionan.
 
 ---
 
-<!-- TOOLKIT SECTION -->
-
-<h2 align="center">Kit de herramientas</h2>
-
-<br>
-
 <div align="center">
 
-**Diseño & Prototipado**
+### ¿Trabajamos juntos?
 
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Framer](https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Sketch](https://img.shields.io/badge/Sketch-0d1117?style=for-the-badge&logo=sketch&logoColor=F7B500)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![After Effects](https://img.shields.io/badge/After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+[**LinkedIn**](https://www.linkedin.com/in/rafael-rom/) · [**Behance**](https://www.behance.net/Ricardo-Romero) · [**Portfolio**](https://ricardo-3.github.io/porfolio/) · [**GitHub**](https://github.com/ricardo-3)
 
-**UX Research & Testing**
-
-![Maze](https://img.shields.io/badge/Maze-0d1117?style=for-the-badge&logo=maze&logoColor=00D478)
-![Hotjar](https://img.shields.io/badge/Hotjar-0d1117?style=for-the-badge&logo=hotjar&logoColor=FF3C00)
-![Miro](https://img.shields.io/badge/Miro-0d1117?style=for-the-badge&logo=miro&logoColor=FFD02F)
-![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-0d1117?style=for-the-badge&logoColor=2E6FF2)
-![FigJam](https://img.shields.io/badge/FigJam-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-**Inteligencia Artificial**
-
-![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![Midjourney](https://img.shields.io/badge/Midjourney-0d1117?style=for-the-badge&logo=midjourney&logoColor=ffffff)
-![Copilot](https://img.shields.io/badge/Copilot-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=6CC644)
-
-**Desarrollo front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-**Analítica & Métricas**
-
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-0d1117?style=for-the-badge&logo=looker&logoColor=4285F4)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-0d1117?style=for-the-badge&logo=mixpanel&logoColor=7856FF)
-![Amplitude](https://img.shields.io/badge/Amplitude-0d1117?style=for-the-badge&logo=amplitude&logoColor=1D72F2)
-
-**Editores de código**
-
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff)
-
-**Gestión de proyectos**
-
-![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC)
-![ClickUp](https://img.shields.io/badge/ClickUp-0d1117?style=for-the-badge&logo=clickup&logoColor=7B68EE)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=ffffff)
-![Confluence](https://img.shields.io/badge/Confluence-0d1117?style=for-the-badge&logo=confluence&logoColor=172B4D)
-![Trello](https://img.shields.io/badge/Trello-0d1117?style=for-the-badge&logo=trello&logoColor=0052CC)
-
-**Versionado & Colaboración**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Slack](https://img.shields.io/badge/Slack-0d1117?style=for-the-badge&logo=slack&logoColor=4A154B)
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-
-<h2 align="center">Conectemos</h2>
-
-<br>
-
-<div align="center">
-
-[![Behance](https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1769FF)](https://www.behance.net/Ricardo-Romero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rafael-rom)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ra7a3lr)
-[![NAN Studio](https://img.shields.io/badge/NAN_Studio-0d1117?style=for-the-badge&logo=safari&logoColor=4cc9f0)](https://nanestudio.art/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael890827@gmail.com)
-
-</div>
-
-<br>
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
+<sub>Diseño de producto · UX/UI · Experiencias web</sub>
 
 </div>
